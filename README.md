@@ -1,4 +1,4 @@
-# 3D loader
+# cursor
 
 In this repository, you'll find different r3f loaders to test models
 
@@ -18,4 +18,4 @@ Install: `yarn install`
 Start developing: `yarn dev`
 
 #### (Keep in mind that this repository is an ongoing project. After the initial setup, it will evolve more and more)
-# cursor
+
