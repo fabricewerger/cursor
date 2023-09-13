@@ -1,6 +1,6 @@
 # cursor
 
-In this repository, you'll find different r3f loaders to test models
+In this repository, I am trying to create native React cursor
 
 ## Installation
 
