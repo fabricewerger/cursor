@@ -43,6 +43,26 @@ export default function Page() {
           </p>
         </div>
       </div>
+      <div className='mx-auto flex w-full flex-col flex-wrap items-center md:flex-row '>
+        {/* jumbo */}
+        <div className='flex w-full flex-col items-start justify-center py-12 text-center md:w-2/5 md:text-left'>
+          <p className='w-full uppercase'>Youwe + 3D loaders</p>
+          <h1 className='my-4 text-5xl font-bold leading-tight'>3D loader starter kit</h1>
+          <p className='mb-8 text-2xl leading-normal'>
+            A minimalist starter for React, React-three-fiber and Threejs. Made for loading 3D models.
+          </p>
+        </div>
+      </div>
+      <div className='mx-auto flex w-full flex-col flex-wrap items-center md:flex-row '>
+        {/* jumbo */}
+        <div className='flex w-full flex-col items-start justify-center py-12 text-center md:w-2/5 md:text-left'>
+          <p className='w-full uppercase'>Youwe + 3D loaders</p>
+          <h1 className='my-4 text-5xl font-bold leading-tight'>3D loader starter kit</h1>
+          <p className='mb-8 text-2xl leading-normal'>
+            A minimalist starter for React, React-three-fiber and Threejs. Made for loading 3D models.
+          </p>
+        </div>
+      </div>
 
       <div className='mx-auto flex flex-col flex-wrap'>
         <div className='mb-10 grid gap-8 md:grid-cols-3 lg:grid-cols-3'>
